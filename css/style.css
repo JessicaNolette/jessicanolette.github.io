@@ -425,8 +425,7 @@ header {
     padding: 5px;
     justify-content: space-around;
     overflow: hidden;
-    max-height: 225px;
- /* make sure this works */
+    
     
 }
 
@@ -556,3 +555,6 @@ header {
 #backtotop i:hover {
     opacity: .6;
 }
+
+
+
